@@ -1,6 +1,10 @@
 SNSPost
 =======
 
-cocos2d for iPhone で 各SNSへ投稿
+各SNSへ投稿(Facebook, Twitter, LINE)
+主にSLComposeViewControllerのラッパー
 
-http://blog.masanorythm.com/cocos2d-tweet.html
+cocos2d-iphone v2.1
+iOS5.0~ (Facebook 6.0~)
+
+
